@@ -21,13 +21,13 @@ LINK DO SITE DE ONDE TIREI A IDEIA :https://ww2.cvc.com.br/
  cadastro_cliente| Cadeia de caracteres | Nome do cliente
  destino_viagem | Cadeia de caracteres | Nome do local para onde o cliente irá viajar
  hotel_escolhido | Cadeia de caracteres | Nome do hotel escolhido 
- hotel_diaria_valor | real | Valor cobrado pela diária do hotel escolhido
- num_pessoas | inteiro | Número de pessoas que irão viajar
- tipo_passagem | cadeia de caracteres | Se a passagem é de ida e volta ou se a passagem é somente de ida
- classe | cadeia de caracteres | Nome da classe em que o cliente deseja viajar
- valor_pasagem_ida_volta | real | valor da passagem de ida e volta
- valor_passagem_ida | real | valor da passagem somente de ida
- origem | cadeia de caracteres | Nome da cidade de onde o cliente parte para a viagem 
- dia_saida | inteiro | dia no qual o cliente sai para sua viagem
- dia_retorno | inteiro | dia no qual o cliente retorna de sua viagem
+ hotel_diaria_valor | Real | Valor cobrado pela diária do hotel escolhido
+ num_pessoas | Inteiro | Número de pessoas que irão viajar
+ tipo_passagem | Cadeia de caracteres | Se a passagem é de ida e volta ou se a passagem é somente de ida
+ classe | Cadeia de caracteres | Nome da classe em que o cliente deseja viajar
+ valor_pasagem_ida_volta | Real | valor da passagem de ida e volta
+ valor_passagem_ida | Real | valor da passagem somente de ida
+ origem | Cadeia de caracteres | Nome da cidade de onde o cliente parte para a viagem 
+ dia_saida | Inteiro | dia no qual o cliente sai para sua viagem
+ dia_retorno | Inteiro | dia no qual o cliente retorna de sua viagem
  
