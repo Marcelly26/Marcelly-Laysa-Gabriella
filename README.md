@@ -1,4 +1,4 @@
-#Agencia_de_viagem
+#Agencia_de_turismo
 
 CEFET - MG / CAMPUS LEOPOLDINA
 
